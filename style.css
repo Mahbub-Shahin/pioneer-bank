@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', 'Jost', sans-serif;
+}
+.login-content{
+    padding: 50px 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+#transiction-area{
+    display: none;
+}
+#transiction-area h2{
+    font-family: 'Poppins', sans-serif;
+}
+#transiction-area h5{
+    font-family: 'Jost';
+    font-size: 24px;
+}
+.deposit{
+    background-color: #6A5ACD;
+    padding: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.withdraw{
+    background-color: #FFA07A;
+    padding: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.balance{
+    background-color: #FFA500;
+    padding: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.amount-submit{
+    padding: 50px 0;
+}
+.submit-area{
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.submit-area input{
+    font-family: 'Jost';
+    font-weight: 500;
+}
